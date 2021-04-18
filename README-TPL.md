@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />欢迎来访我的Github</h2>
 
-我网名是`DeepKolos`，是一名前端开发，目前就职于奥本未来
+我网名是`DeepKolos`，是一名前端开发，之前在小米，目前就职于奥本未来
 
 [![github](https://img.shields.io/badge/-deepkolos-%23323031?style=flat&logo=github)](https://github.com/deepkolos)
 ![wechat](https://img.shields.io/badge/-deepkolos-%23323031?style=flat&logo=wechat)
@@ -27,7 +27,7 @@
 
 <details>
 
-<summary style="font-size: 18px;display: flex;align-items: center;"><img style="margin-right: 5px;" width="18" src="https://simpleicons.org/icons/github.svg"/>我的旅程</summary>
+<summary style="font-size: 18px;display: flex;align-items: center;">✨ 我的旅程</summary>
 
 <!-- <img alt="deepkolos stats" width="360" src="https://github-readme-stats-deepkolos.vercel.app/api?username=deepkolos&show_icons=true&include_all_commits=true"><br> -->
 <!-- <img alt="deepkolos's wakatime stats" width="360" src="https://github-readme-stats-deepkolos.vercel.app/api/wakatime?username=deepkolos"> -->
