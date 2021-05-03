@@ -2,6 +2,7 @@ const fs = require('fs');
 
 const journey = {
   works: {
+    'wxmp-tensorflow': '微信小程序下运行最新TensorFlow的解决方案',
     'three-platformize': '一个让 THREE 平台化的项目，目前已适配微信小程序，淘宝小程序',
     'compressed-model-diff': '模型压缩后效果对比工具',
     'hdr-prefilter-texture': '导出PMREMGenerator生成的纹理',
