@@ -2,6 +2,7 @@ const fs = require('fs');
 
 const journey = {
   works: {
+    'gltf-merge': '一个用于 多个 gltf 依赖资源合并的工具，适用于换材质换网格，不同组合按需下载的场景',
     'wxmp-tensorflow': '微信小程序下运行最新TensorFlow的解决方案',
     'three-platformize': '一个让 THREE 平台化的项目，目前已适配微信、淘宝、字节小程序',
     'compressed-model-diff': '模型压缩后效果对比工具',
