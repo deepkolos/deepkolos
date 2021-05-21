@@ -44,6 +44,7 @@ const journey = {
     EggSweeper: '一个扫雷改造为回忆录的东西',
   },
   demos: {
+    'three-platformize-plugin-wechat': 'three-platformize 微信小程序插件',
     'tfjs-treeshaking-test': 'tfjs treeshaking custom module test',
     'three-platformize-demo': 'three-platformize测试用例',
     'three-platformize-demo-wechat': 'three-platformize 微信小程序DEMO',
