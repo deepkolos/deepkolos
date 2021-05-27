@@ -45,6 +45,7 @@ const journey = {
   },
   demos: {
     'three-platformize-demo-wechat-game': 'three-platformize 微信小游戏 DEMO',
+    'three-platformize-demo-byte': 'three-platformize 字节小程序 DEMO',
     'three-platformize-plugin-wechat': 'three-platformize 微信小程序插件',
     'tfjs-treeshaking-test': 'tfjs treeshaking custom module test',
     'three-platformize-demo': 'three-platformize测试用例',
