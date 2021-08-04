@@ -28,6 +28,7 @@ const journey = {
   study: {
     'study-log-webglfundamentals': '',
     'study-log-threejsfundamentals': '',
+    'study-log-assemblyscript': ''
   },
   tools: {
     awebp: 'animated webp 小工具，主要用于透明视频生成透明webp',
