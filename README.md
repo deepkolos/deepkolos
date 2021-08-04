@@ -64,6 +64,7 @@
 |-----------|--------------|---------|--------|
 |[study-log-webglfundamentals](https://github.com/deepkolos/study-log-webglfundamentals)||<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/study-log-webglfundamentals?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/study-log-webglfundamentals?style=flat&labelColor=373f51&color=4FC08D" />|
 |[study-log-threejsfundamentals](https://github.com/deepkolos/study-log-threejsfundamentals)||<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/study-log-threejsfundamentals?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/study-log-threejsfundamentals?style=flat&labelColor=373f51&color=4FC08D" />|
+|[study-log-assemblyscript](https://github.com/deepkolos/study-log-assemblyscript)||<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/study-log-assemblyscript?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/study-log-assemblyscript?style=flat&labelColor=373f51&color=4FC08D" />|
 
 
 ### Tools
