@@ -2,6 +2,7 @@ const fs = require('fs');
 
 const journey = {
   works: {
+    'base64-arraybuffer-as': '一个用 AssemblyScript 编写的 base64-arraybuffer (约4倍快于JS版)',
     'lazy-gltf-loader': '一个能让 GLTF 局部懒加载的 Loader',
     'gltf-gpu-compressed-texture': '一个 GPU 压缩纹理降级的 GLTF 扩展，及其 CLI 生成工具',
     'gltf-merge': '一个用于 多个 gltf 依赖资源合并的工具，适用于换材质换网格，不同组合按需下载的场景',
