@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />欢迎来访我的Github</h2>
 
-我网名是`DeepKolos`，是一名前端开发，之前在小米，目前就职于奥本未来
+我网名是`DeepKolos`，是一名前端开发，之前在小米，目前就职于奥本未来，即将就职于字节
 
 [![github](https://img.shields.io/badge/-deepkolos-%23323031?style=flat&logo=github)](https://github.com/deepkolos)
 ![wechat](https://img.shields.io/badge/-deepkolos-%23323031?style=flat&logo=wechat)
