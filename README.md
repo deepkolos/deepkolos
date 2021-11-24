@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />欢迎来访我的Github</h2>
 
-我网名是`DeepKolos`，是一名前端开发，之前在小米，目前就职于奥本未来，即将就职于字节
+我网名是`DeepKolos`，是一名前端开发，之前在奥本未来和小米，目前就职于字节
 
 [![github](https://img.shields.io/badge/-deepkolos-%23323031?style=flat&logo=github)](https://github.com/deepkolos)
 ![wechat](https://img.shields.io/badge/-deepkolos-%23323031?style=flat&logo=wechat)
@@ -37,7 +37,7 @@
 
 |📦 Projects|📃 Description|⭐ Stars|📚 Forks|
 |-----------|--------------|---------|--------|
-|[base64-arraybuffer-as](https://github.com/deepkolos/base64-arraybuffer-as)|一个用 AssemblyScript 编写的 base64-arraybuffer (约4倍快于JS版)|<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/base64-arraybuffer-as?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/base64-arraybuffer-as?style=flat&labelColor=373f51&color=4FC08D" />|
+|[base64-arraybuffer-as](https://github.com/deepkolos/base64-arraybuffer-as)|一个用 AssemblyScript 编写的 base64-arraybuffer (Chrome约2倍快于JS版, Node约4倍)|<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/base64-arraybuffer-as?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/base64-arraybuffer-as?style=flat&labelColor=373f51&color=4FC08D" />|
 |[lazy-gltf-loader](https://github.com/deepkolos/lazy-gltf-loader)|一个能让 GLTF 局部懒加载的 Loader|<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/lazy-gltf-loader?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/lazy-gltf-loader?style=flat&labelColor=373f51&color=4FC08D" />|
 |[gltf-gpu-compressed-texture](https://github.com/deepkolos/gltf-gpu-compressed-texture)|一个 GPU 压缩纹理降级的 GLTF 扩展，及其 CLI 生成工具|<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/gltf-gpu-compressed-texture?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/gltf-gpu-compressed-texture?style=flat&labelColor=373f51&color=4FC08D" />|
 |[gltf-merge](https://github.com/deepkolos/gltf-merge)|一个用于 多个 gltf 依赖资源合并的工具，适用于换材质换网格，不同组合按需下载的场景|<img alt="Stars" src="https://img.shields.io/github/stars/deepkolos/gltf-merge?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/deepkolos/gltf-merge?style=flat&labelColor=373f51&color=4FC08D" />|
