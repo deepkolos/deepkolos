@@ -2,6 +2,7 @@ const fs = require('fs');
 
 const journey = {
   works: {
+    'platformize': '一个支持把 js 库中浏览器 api 改用定制 polyfill 的构建插件, 提供threejs/oasis/playcanvas/pixi定制适配',
     'base64-arraybuffer-as': '一个用 AssemblyScript 编写的 base64-arraybuffer (Chrome约2倍快于JS版, Node约4倍)',
     'lazy-gltf-loader': '一个能让 GLTF 局部懒加载的 Loader',
     'gltf-gpu-compressed-texture': '一个 GPU 压缩纹理降级的 GLTF 扩展，及其 CLI 生成工具',
