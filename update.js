@@ -28,6 +28,8 @@ const journey = {
     },
   },
   study: {
+    'CppGL': 'cpp 实现部分 opengl api 以及 shader 模拟(依赖反射提供额外信息)',
+    'study-log-cpp': '',
     'study-log-webglfundamentals': '',
     'study-log-threejsfundamentals': '',
     'study-log-assemblyscript': ''
