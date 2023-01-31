@@ -51,6 +51,7 @@ const journey = {
     EggSweeper: '一个扫雷改造为回忆录的东西',
   },
   demos: {
+    'webgpu-demo': 'WebGPU Demo',
     'webgl-pbr-demo': 'PBR Shader DEMO',
     'iframe-worker-demo': '利用OOPIF，实现把iframe当worker用',
     'three-platformize-demo-wechat-game': 'three-platformize 微信小游戏 DEMO',
